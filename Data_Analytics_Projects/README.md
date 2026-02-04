@@ -1,1 +1,1 @@
-
+Executed a hands-on data analytics project involving data cleaning, exploratory analysis, statistical testing, and machine learning model development using Python. Generated insights to support data-driven decision-making while strengthening analytical capabilities alongside IT infrastructure knowledge.
